@@ -3,7 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
-# solana_nft_anchor = "<UPDATE HERE>"
+ solana_nft_anchor = "HvVaQV8fkfQuH3UdRxJsMJwn3JyM2Kzvkwe87krK1bmq"
 
 [registry]
 url = "https://api.apr.dev"
